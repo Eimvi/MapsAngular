@@ -14,6 +14,9 @@
 ## Limited Place Navigation
 ![image](https://user-images.githubusercontent.com/81714676/154825358-e894c89c-258e-4737-9516-cdff85aec72c.png)
 
+## Mobile Version
+![image](https://user-images.githubusercontent.com/81714676/154826238-4d846953-cb79-460f-a13a-f938b8fed061.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
