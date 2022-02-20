@@ -1,5 +1,20 @@
 button{
   position: fixed;
-  top: 20px;
+  top: 30px;
   right: 20px;
+}
+
+@media(max-width: 470px){
+
+  button{
+    right: 10px;
+  }
+
+  .location{
+    display: none;
+  }
+
+  .icon-location{
+    display: flex;
+  }
 }
